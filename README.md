@@ -1,4 +1,5 @@
 ## 网抑云视频生成器
+### 原作者B站objtube的卢克儿 [B站主页](https://space.bilibili.com/5104803?spm_id_from=333.788.b_765f7570696e666f.1) [原仓库链接](https://github.com/ObjTube/wyy-videoGen)
 
 > 半成品，仅供娱乐学习
 
